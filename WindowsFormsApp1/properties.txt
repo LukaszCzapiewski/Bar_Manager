@@ -1,0 +1,18 @@
+Espresso /6,50 napój
+Espresso Doppio /7,50 napój
+Americano /8,30 napój
+Cappuccino /8,59 napój
+Latte /12,80 napój
+Latte Macchiato /12,30 napój
+Flat White /10,59 napój
+Mocha /14,20 napój
+Herbata z konfiturą  /10,40 napój
+Herbata imbirowa /9,50 napój
+Herbata różana z chilli /10,40 napój
+Herbata z rumem /12,30 napój
+Bananowa etiuda /8,50 deser
+Leśna nuta /10,75 deser
+Lody śmietankowe /10,60 deser
+Tiramisu /12,50 deser 
+Kołocz z serem /8,40 deser
+Kołocz z makiem /8,30 deser
